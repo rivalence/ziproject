@@ -2,12 +2,12 @@
 
 ## Pré-requis
 
-• Symfony 6 et composer (https://symfony.com/doc/current/setup.html)
+• Symfony 6 et composer (https://symfony.com/doc/current/setup.html)  
 • npm/node (https://nodejs.org/fr)
 
 ## Installation
 
-• Cloner le projet github dans un dossier
+• Cloner le projet github dans un dossier  
 • Installer les dépendances pour le projet 
 ```bash
 cd /projet 
@@ -27,7 +27,7 @@ npm run watch
 
 ## Spécification
 
-• Placer les dossiers sources dans le même repertoire que le projet
+• Placer les dossiers sources dans le même repertoire que le projet  
 • Si on rencontre cette erreur: "ZipArchive not found", aller dans le fichier de configuration php.ini de notre
 installation php et rajouter cette ligne en fin de fichier 
 ```extension=zip.dll```
