@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+}
+
+.form {
+    border: solid 1px;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.button {
+    border-radius: 5px;
+    background-color: azure;
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.label {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.input-text {
+    width: 50%;
+    height: 25px;
+    border-radius: 5px;
+}
