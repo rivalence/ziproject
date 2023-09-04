@@ -25,7 +25,7 @@ symfony server:start
 npm run watch
 ```
 
-## Spécification
+## Spécifications
 
 • Placer les dossiers sources dans le même repertoire que le projet  
 • Si on rencontre cette erreur: "ZipArchive not found", aller dans le fichier de configuration php.ini de notre
@@ -38,7 +38,7 @@ installation php et rajouter cette ligne en fin de fichier
 symfony server:stop
 ```
 
-• Ctrl + C dans le terminal qui lancé 
+• Ctrl + C dans le terminal qui a lancé 
 ```bash
 npm run watch
 ```
